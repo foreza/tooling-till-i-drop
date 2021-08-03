@@ -21,7 +21,7 @@ And hopefully, more clever..
 
 
 - [Test Ad Repo](https://github.com/foreza/SESUPPLY-TESTADS) A repo for storing test ads. I use this as a makeshift CDN since I can't be bothered to upload it elsewhere and this keeps it versioned. For example, https://jasonthechiu.com/SESUPPLY-TESTADS/ias-test-dog-vast 
-- [Grabba (the hut)](https://github.com/foreza/im-grabbathehut) A simple tool that grabs out the Ad XML from InMobi's video ad responses. Extremely niche, extremely time saving. 
+- [Grabba (the hut)](https://github.com/foreza/im-grabbathehut) A simple tool that grabs out the Ad XML from InMobi's video ad responses. Extremely niche, extremely time saving. https://jasonthechiu.com/im-grabbathehut/GrabbaTheHut.html
 - [Fetch Bone](https://github.com/foreza/mutt-fetch-bone) Another simple tool that grabs an ad response, takes out the guts, shoves some new guts in it, and returns it.
 
 
